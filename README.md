@@ -1,1 +1,1 @@
-# MiniLibrary
+This project simulates a small command-line based library system where users can add books, borrow and return them, and view both the inventory and individual borrowing records.  It uses Python object-oriented programming to model Book, User, and Library classes and demonstrates user interaction, data structure manipulation (dictionaries/lists), and conditional logic.
